@@ -8,7 +8,7 @@ public class Car{
 		Car c = new Car();
 			c.brand="Mahindra";
 			c.model="XUV";
-			c.color="Red";
+			c.color="Red ";
 			c.price=1500000;
 		Car c1 = new Car();
 		    c1.brand = "Tata";
