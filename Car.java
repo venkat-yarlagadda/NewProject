@@ -12,9 +12,9 @@ public class Car{
 			c.price=1500000;
 		Car c1 = new Car();
 		    c1.brand = "Tata";
-			c1.model="Harrier";
+			c1.model="Nexon";
 			c1.color="White";
-			c1.price=2200000;
+			c1.price=1200000;
 		Car c2 = new Car();
 		    c2.brand="Ford";
 			c2.model="Aspire";
