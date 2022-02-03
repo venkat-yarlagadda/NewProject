@@ -3,7 +3,7 @@ public class Car{
 	String model;
 	String color;
 	double price;
-	static String madein="India";
+	static String madein="INDIA";
   public static void main(String[] arg){
 		Car c = new Car();
 			c.brand="Mahindra";
